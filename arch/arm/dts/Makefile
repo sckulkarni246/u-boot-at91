@@ -1045,6 +1045,9 @@ dtb-$(CONFIG_TARGET_SAMA5D27_WLSOM1_EK) += \
 dtb-$(CONFIG_TARGET_SAMA5D2_ICP) += \
 	at91-sama5d2_icp.dtb
 
+dtb-$(CONFIG_TARGET_SAMA5D27_JUPITER_NANO) += \
+	at91-sama5d27_jupiter_nano.dtb
+
 dtb-$(CONFIG_TARGET_SAMA5D3XEK) += \
 	sama5d31ek.dtb \
 	sama5d33ek.dtb \

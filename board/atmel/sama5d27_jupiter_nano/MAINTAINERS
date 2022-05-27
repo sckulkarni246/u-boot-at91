@@ -1,0 +1,7 @@
+SAMA5D27 Jupiter Nano
+M:	Shashank Kulkarni <shanky.kulkarni@gmail.com>
+S:	Maintained
+F:	board/atmel/sama5d27_jupiter_nano/
+F:	include/configs/sama5d27_jupiter_nano.h
+F:	configs/sama5d27_jupiter_nano_mmc1_defconfig
+F:  arch/arm/dts/at91-sama5d27_jupiter_nano.dts
